@@ -2,7 +2,7 @@
 - 📫 I graduate from Queen's University in a Bachelor of Applied Science in Civil Engineering.
 - 👀 I’m interested in web and app development, and data science. I love creating things from scratch, and am especially fond of DIY projects! 
 - 🌱 I’m currently learning JavaScript and DOM fundamentals through Colt Steele's web development bootcamp on Udemy. 
-- 👨‍💻 Just recently, I've completed a gold forecasting time series analysis by using ARIMA. 
+- 👨‍💻 Just recently, I've completed a gold forecasting time series analysis by using ARIMA to within 98.5% accuracy!
 - 
 
 <!---
