@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vjimmy24
+- 👋 Hi, I’m Jimmy!
 - 📫 I graduate from Queen's University in a Bachelor of Applied Science in Civil Engineering.
 - 👀 I’m interested in web and app development, and data science. I love creating things from scratch, and am especially fond of DIY projects! 
 - 🌱 I’m currently learning JavaScript and DOM fundamentals through Colt Steele's web development bootcamp on Udemy. 
